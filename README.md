@@ -1,2 +1,1 @@
-# BetterReflection
-[WIP] Polyfill for the PHP Reflection API that we miss
+Nothing to see here, move along to https://github.com/Roave/BetterReflection
